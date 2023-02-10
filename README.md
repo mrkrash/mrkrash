@@ -2,10 +2,10 @@
 
 ## Mario here
 
-I'm a Full Stack Developer although I prefer to call myself a simple developer. I love to develop and get passionate about languages and paradigms; even to the social ones.
+I'm a Senor Backend Developer and I get passionate about languages and paradigms; even to the social ones.
 
-- 🔭 I’m currently working on some new features of a surveillance software with transition from java to kotlin (coroutines, workers, livedata)
-- 🌱 I’m currently learning Kotlin and Functional Paradigm
+- 🔭 I’m currently studying Functional Paradigm and I'm looking to collaborate on projects to learn more
+- 🌱 I think the language does not delineate the developer's capability, there is a difference between a hammer and a screwdriver
 - 👯 I'm looking to collaborate on projects in Dart, to learn more
 - 📫 You can reach me on twetter @babau_mr
 <!--
